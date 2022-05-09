@@ -4,6 +4,10 @@
     gap: 1em;
 }
 
+input {
+    width: max-content;
+}
+
 button {
     width: max-content;
     font-size: 25px;
